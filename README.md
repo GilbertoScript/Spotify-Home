@@ -1,4 +1,21 @@
-# Spotify-home
-Clone da antiga página inicial do Site - Spotify, desenvolvida com HTML5, CSS3 e Bootstrap. 
+<h1><img src="img/home.PNG"></h1>
 
-Em produção..
+### 📚 Sobre
+
+Este é um clone da antiga página inicial do site Spotify, desenvolvida durante o Curso De Desenvolvimento Web Completo.
+
+### 🎨 Detalhe
+
+Site desenvolvido com o sistema de grids do Bootstrap4.
+
+Site responsivo.
+
+<hr>
+
+### 💻 Tecnologias utilizadas
+
+Neste site foi utilizado as seguintes tecnologias
+
+- [HTML](https://www.w3schools.com/html/)
+- [CSS](https://www.w3schools.com/css/)
+- [Bootstrap](https://getbootstrap.com/)
