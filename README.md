@@ -19,3 +19,9 @@ Neste site foi utilizado as seguintes tecnologias
 - [HTML](https://www.w3schools.com/html/)
 - [CSS](https://www.w3schools.com/css/)
 - [Bootstrap](https://getbootstrap.com/)
+
+### :airplane: Acesse o site
+
+Hospedado no Netlify
+
+https://museu-nacional-gsj.netlify.app/
