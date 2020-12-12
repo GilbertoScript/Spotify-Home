@@ -24,4 +24,4 @@ Neste site foi utilizado as seguintes tecnologias
 
 Hospedado no Netlify
 
-https://museu-nacional-gsj.netlify.app/
+https://spotify-home-gsj.netlify.app/
