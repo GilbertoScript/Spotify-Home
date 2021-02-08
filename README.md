@@ -14,7 +14,7 @@ Site responsivo.
 
 ### 💻 Tecnologias utilizadas
 
-Neste site foi utilizado as seguintes tecnologias
+Neste site foram utilizado as seguintes tecnologias
 
 - [HTML](https://www.w3schools.com/html/)
 - [CSS](https://www.w3schools.com/css/)
